@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#6abadeba;
+    font-family: 'Arial';
+}
+.home{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #be981c;
+        border-radius: 15px ;
+
+}
+h2{
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+}
+label{
+    color: #08ffd1;
+    font-size: 17px;
+}
+#log{
+    width: 300px;
+    height: 28px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 14px;
+    color: blue;
+}
+span{
+    color: white;
+    font-size: 17px;
+}
+p{
+    float: right;
+    color:rgb(23, 19, 224);
+}
